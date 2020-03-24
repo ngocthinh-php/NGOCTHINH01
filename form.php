@@ -1,5 +1,6 @@
 <?php
 $name =$_POST['fname'];
-$mail =$_POST['mail'];
-echo "Chao ban $name <br/> Email cua ban la: {$mail}";
+$email =$_POST['mail'];
+echo "Chao ban $name" <br/> 
+echo "Email cua ban la: $email";
 ?>
